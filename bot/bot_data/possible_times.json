@@ -1,0 +1,86 @@
+{
+    "Durchschnittstemperatur": [
+        "DURCHSCHNITT",
+        "DURCHSCHNITTLICH",
+        "DURCHSCHNITTS" 
+    ],
+    "Jetzt": [
+        "JETZT", "GERADE", "MOMENTAN"
+    ],
+    "0": [
+        "0","NULL", "MITTERNACHT", "MITTERNACHTS"
+    ],
+    "1": [
+        "1", "EINS"
+    ],
+    "2": [
+        "2","ZWEI"
+    ],
+    "3": [
+        "3","DREI", "NACHT", "NACHTS"
+    ],
+    "4": [
+        "4","VIER"
+    ],
+    "5": [
+        "5","FÜNF"
+    ],
+    "6": [
+        "6","SECHS"
+    ],
+    "7": [
+        "7","SIEBEN", "MORGEN", "MORGENS"
+    ],
+    "8": [
+        "8","ACHT"
+    ],
+    "9": [
+        "9","NEUN"
+    ],
+    "10": [
+        "10","ZEHN"
+    ],
+    "11": [
+        "11","ELF"
+    ],
+    "12": [
+        "12","ZWÖLF", "MITTAG", "MITTAGS"
+    ],
+    "13": [
+        "13","DREIZEHN"
+    ],
+    "14": [
+        "14","VIERZEHN"
+    ],
+    "15": [
+        "15","FÜNFZEHN", "NACHMITTAG", "NACHMITTAGS"
+    ],
+    "16": [
+        "16","SECHZEHN"
+    ],
+    "17": [
+        "17","SIEBZEHN"
+    ],
+    "18": [
+        "18","ACHTZEHN"
+    ],
+    "19": [
+        "19","NEUNZEHN", "ABEND", "ABENDS"
+    ],
+    "20": [
+        "20","ZWANZIG"
+    ],
+    "21": [
+        "21","EINUNDZWANZIG"
+    ],
+    "22": [
+        "22","ZWEIUNDZWANZIG"
+    ],
+    "23": [
+        "23","DREIUNDZWANZIG"
+    ],
+    "24": [
+        "24","VIERUNDZWANZIG"
+    ]
+    
+}

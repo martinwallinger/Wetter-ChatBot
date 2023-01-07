@@ -1,0 +1,24 @@
+{
+    "Hallo!": [
+        "HI",
+        "HALLO",
+        "GUTEN",
+        "HEI",
+        "MOIN"
+    ],
+    "Mir geht es gut!":[
+        "WIE GEHTS",
+        "WIE GEHT'S",
+        "WIE GEHT ES DIR"
+    ],
+    "Ich bin ein Wetter-Bot, ich kann dir das Wetter verraten.":[
+        "WER BIST DU",
+        "WAS KANNST DU"
+    ],
+    "Falls Sie die gewählte Stadt ändern möchten, tippen Sie 'reset' ein":[
+        "NEIN",
+        "FALSCH",
+        "NICHT",
+        "ANDERS"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "0": [
+        "HEUTE",
+        "JETZT",
+        "GERADE",
+        "MOMENTAN",
+        "MOMENT",
+        "0",
+        "NULL"
+    ],
+    "1": [
+        "MORGEN",
+        "EINEM TAG",
+        "1",
+        "EINEM",
+        "EINEN"
+    ],
+    "2": [
+        "ÜBERMORGEN",
+        "ZWEI TAGEN",
+        "ÜBER MORGEN",
+        "2",
+        "ZWEI"
+    ]
+}

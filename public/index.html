@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" media="screen" href="./css/bootstrap1.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="./css/bootstrap2.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="./css/style.css" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="./js/jquery_v3.1.1.js"></script>
+  <script src="./js/bootstrap.js"></script>
+  <script src="./js/template.js"></script>
+</head>
+
+
+
+<body>
+
+  <div id="center-text">
+    <div id="text">
+      <h2>Wetter Bot</h2>
+      <p>Gibt das Wetter für (fast) jede Stadt auf der Welt zurück.<br>Fehlende Städte können in cities.json nachgetragen werden. </p>
+    </div>
+
+
+    <div id="weatherapi-weather-widget-2"></div>
+    <script type='text/javascript' src='./js/widget.ashx' async></script><noscript><a
+        href="https://www.weatherapi.com/weather/q/deggendorf-573521" alt="Hour by hour Deggendorf weather">10 day hour
+        by hour Deggendorf weather</a></noscript>
+  </div>
+  <div id="body">
+
+    <div id="chat-circle" class="btn btn-raised">
+      <div id="chat-overlay"></div>
+      <i class="material-icons">speaker_phone</i>
+    </div>
+
+    <div class="chat-box">
+      <div class="chat-box-header">
+        ChatBot
+        <span class="chat-box-toggle"><i class="material-icons">close</i></span>
+      </div>
+      <div class="chat-box-body">
+        <div class="chat-box-overlay">
+        </div>
+        <div class="chat-logs">
+
+          <div id='cm-msg-0' class="chat-msg user">
+            <span class="msg-avatar"><img src="./images/bot_icon.png"></span>
+            <div class="cm-msg-text">
+              Wie kann ich helfen?
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+      <div class="chat-input">
+        <form>
+          <input type="text" id="chat-input" placeholder="Send a message..." />
+          <button type="submit" class="chat-submit" id="chat-submit"><i class="material-icons">send</i></button>
+
+
+
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <p>made by Martin Wallinger</p>
+  </div>
+ 
+
+
+</body>
+
+</html>
